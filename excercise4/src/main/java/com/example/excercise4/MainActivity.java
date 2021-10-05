@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
             currentOperation = "";
         }
         if(operation.contains("=")){
-            currentOperation = "";
+            currentOperation = " ";
         }
     }
 
